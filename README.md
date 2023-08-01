@@ -8,7 +8,7 @@ The best way to contact me is at [&#106;&#64;&#108;&#97;&#105;&#46;&#110;&#122;]
 
 ***
 
-My presence on GitHub is… quiet. (Part of this comes down to GitHub’s [questionable ML model training practices](https://llmlitigation.com).)
+My public presence on GitHub is… quiet. (Part of this comes down to GitHub’s [questionable ML model training practices](https://llmlitigation.com).)
 
 Several of my projects are rooted in academic assignments, which I can’t share publicly without substantial modification. I’m also somewhat of a type enthusiast, so side projects of mine often involve using font files which I have only licensed for personal use.
 
