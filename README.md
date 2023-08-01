@@ -4,11 +4,13 @@ I’m a penultimate software engineering student, student representative and tea
 
 I’m also an alumnus of [AUT](https://www.aut.ac.nz), where I majored in Communication Design, specialising in UX/UI Design. My minor was in Creative Sound Design.
 
-The best way to contact me is at [&#106;&#64;&#108;&#97;&#105;&#46;&#110;&#122;](&#109;&#97;&#73;&#108;&#116;&#111;&#58;&#106;&#64;&#108;&#97;&#105;&#46;&#110;&#122;), or [on Mastodon](https://mastodon.online/@jasperlai) if that’s your thing too!
+Come and say hi [on Mastodon](https://mastodon.online/@jasperlai), if that’s your thing! Otherwise, I list the best ways to contact me on my website:
+
+<p style="font-size: 2em; font-weight: bold; text-align: center">[lai.nz](https://lai.nz)</p>
 
 ***
 
-My public presence on GitHub is… quiet. (Part of this comes down to GitHub’s [questionable ML model training practices](https://llmlitigation.com).)
+My presence on GitHub is… quiet. (Part of this comes down to GitHub’s [questionable ML model training practices](https://llmlitigation.com).)
 
 Several of my projects are rooted in academic assignments, which I can’t share publicly without substantial modification. I’m also somewhat of a type enthusiast, so side projects of mine often involve using font files which I have only licensed for personal use.
 
