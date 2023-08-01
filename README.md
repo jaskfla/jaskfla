@@ -4,9 +4,7 @@ I’m a penultimate software engineering student, student representative and tea
 
 I’m also an alumnus of [AUT](https://www.aut.ac.nz), where I majored in Communication Design, specialising in UX/UI Design. My minor was in Creative Sound Design.
 
-Come and say hi [on Mastodon](https://mastodon.online/@jasperlai), if that’s your thing! Otherwise, I list the best ways to contact me on my website:
-
-<p style="font-size: 2em; font-weight: bold; text-align: center">[lai.nz](https://lai.nz)</p>
+Come and say hi [on Mastodon](https://mastodon.online/@jasperlai), if that’s your thing! Otherwise, I list the best ways to contact me on [my website](https://lai.nz).
 
 ***
 
