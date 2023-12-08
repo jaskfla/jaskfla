@@ -1,6 +1,6 @@
-# Hiya! Jasper here. 👋
+# Hiya! Jasper here 👋
 
-I’m a penultimate software engineering student, student representative and teaching assistant at the [University of Auckland](https://www.auckland.ac.nz).
+I’m a software engineering student, student representative and teaching assistant at the [Waipapa Taumata Rau](https://www.auckland.ac.nz). 2024 will be my final year!
 
 I’m also an alumnus of [AUT](https://www.aut.ac.nz), where I majored in Communication Design, specialising in UX/UI Design. My minor was in Creative Sound Design.
 
