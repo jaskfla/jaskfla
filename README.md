@@ -1,10 +1,10 @@
 # Hiya! Jasper here 👋
 
-I’m a software engineering student, student representative and teaching assistant at the [Waipapa Taumata Rau](https://www.auckland.ac.nz). 2024 will be my final year!
+I’m a final-year software engineering student at [Waipapa Taumata Rau](https://www.auckland.ac.nz), and intern-turned-junior-dev at [Beyond Essential Systems](https://bes.au).
 
 I’m also an alumnus of [AUT](https://www.aut.ac.nz), where I majored in Communication Design, specialising in UX/UI Design. My minor was in Creative Sound Design.
 
-Come and say hi [on Mastodon](https://mastodon.online/@jasperlai), if that’s your thing! Otherwise, I list the best ways to contact me on [my website](https://lai.nz).
+Come and say hi [on Mastodon](https://mastodon.online/@jasperlai), if that’s your thing! I also have a (pretty spartan) [website](https://lai.nz).
 
 ***
 
